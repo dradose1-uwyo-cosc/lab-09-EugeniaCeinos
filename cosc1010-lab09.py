@@ -180,7 +180,7 @@ class Pizzeria:
 
 pizzeria = Pizzeria()
 while True:
-    customer = input("Would you like to place a order? exit to exit\n")
+    customer = input("Would you like to place an order? exit to exit\n")
     if customer == "exit":
         break
     
