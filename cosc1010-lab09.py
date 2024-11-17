@@ -186,3 +186,4 @@ while True:
     
     pizzeria.placeOrder()
     pizzeria.getReceipt()
+print(f"There were {pizzeria.orders} orders")
